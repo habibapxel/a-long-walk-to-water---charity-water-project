@@ -48,6 +48,6 @@ This is an **unofficial project** built for portfolio/learning purposes. It is
 not affiliated with, endorsed by, or officially produced by charity: water. Any logos or
 photos used were sourced from charity: water's public media resources page
 (charitywater.org/about/media) in line with their supporter guidelines. 
-Everything is based from the Global Career Accelerator's Course in which I've been learning how to best use AI to help code and understand the world of marketing/brand. Thank you for the oppertunity.
+Everything is based from the Global Career Accelerator's Course in which I've been learning how to best use AI to help code and understand the world of marketing/brand. Thank you for the oppertunity!
 
 To learn more or donate to real water projects, visit **[charitywater.org](https://www.charitywater.org)**.
